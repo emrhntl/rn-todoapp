@@ -7,6 +7,14 @@ Bu, React Native kullanarak geliştirilmiş basit bir Todo uygulamasıdır. Bu u
 - Yeni bir görev ekleyebilme
 - Mevcut görevleri tamamlama
 - Görevleri silme
+
+## İçindekiler
+
+- [Kurulum](#kurulum)
+- [Kullanım](#kullanım)
+- [Katkıda Bulunma](#katkıda-bulunma)
+
+
 ## Kurulum
 
 1. Bu depoyu yerel makinenize klonlayın:
