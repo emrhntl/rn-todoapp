@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Todo App yap",
+        "isDone": true
+    },
+    {
+        "title": "React navigation pratiği",
+        "isDone": false
+    },
+    {
+        "title": "State management öğren",
+        "isDone": false
+    }
+]
